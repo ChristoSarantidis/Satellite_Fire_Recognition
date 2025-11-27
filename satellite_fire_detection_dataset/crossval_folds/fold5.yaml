@@ -1,0 +1,6 @@
+train: /home/sarantidis/fire_vol2/crossval_folds/fold5/train
+val: /home/sarantidis/fire_vol2/crossval_folds/fold5/val
+test: /home/sarantidis/fire_vol2/crossval_folds/fold5/test
+
+nc: 1
+names: ['fire']
