@@ -37,3 +37,6 @@ For more details about this experiment, you can contact me at: csarantidis@ionio
 I'll be delighted to provide you with any additional information!!! ;D
 
 The original dataset was retrieved from Roboflow. Available at: https://universe.roboflow.com/htw-berlin-xv7eo/satellite-wildfire-detection
+
+*********Important notice************
+I used this dataset for training purposes and i still have not been able to verify its provenance. It is not published in any academic research that is publicly available.
