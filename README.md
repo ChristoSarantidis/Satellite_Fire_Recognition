@@ -1,10 +1,11 @@
 # Satellite_Fire_Recognition
 
-In those images you can see some results from the model.
+![](https://github.com/user-attachments/assets/a271f829-7b7c-4a80-b27c-18530468068e)
+![](https://github.com/user-attachments/assets/f372e4c4-fd02-4de6-b961-19a087b5d2d4)
+![](https://github.com/user-attachments/assets/0c4bc269-4405-4399-b8d3-317b5ab41f53)
 
-[1](https://github.com/user-attachments/assets/458defd8-a48f-47c0-9f91-98a06b12dfed)
-[2](https://github.com/user-attachments/assets/5c5f8a6c-c2f8-44d4-b1c6-9af5e07852d1)
-[3](https://github.com/user-attachments/assets/317bb3a9-d96a-4876-aa44-15f15cba7cec)
+
+
 
 
 Greetings :DD!
