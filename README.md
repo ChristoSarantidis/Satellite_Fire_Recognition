@@ -1,11 +1,7 @@
 # Satellite_Fire_Recognition
 
 
-[1](https://github.com/user-attachments/assets/458defd8-a48f-47c0-9f91-98a06b12dfed)
-
-![2](https://github.com/user-attachments/assets/5c5f8a6c-c2f8-44d4-b1c6-9af5e07852d1)
-
-![3](https://github.com/user-attachments/assets/317bb3a9-d96a-4876-aa44-15f15cba7cec)
+(https://github.com/user-attachments/assets/458defd8-a48f-47c0-9f91-98a06b12dfed)(https://github.com/user-attachments/assets/5c5f8a6c-c2f8-44d4-b1c6-9af5e07852d1)(https://github.com/user-attachments/assets/317bb3a9-d96a-4876-aa44-15f15cba7cec)
 
 
 Greetings :DD!
