@@ -1,6 +1,14 @@
 # Satellite_Fire_Recognition
 
-Greetings :DD
+
+[1](https://github.com/user-attachments/assets/458defd8-a48f-47c0-9f91-98a06b12dfed)
+
+![2](https://github.com/user-attachments/assets/5c5f8a6c-c2f8-44d4-b1c6-9af5e07852d1)
+
+![3](https://github.com/user-attachments/assets/317bb3a9-d96a-4876-aa44-15f15cba7cec)
+
+
+Greetings :DD!
 
 This is a project about forest fire detection using satellites. For those results 5 fold cross validation was used. It is a comparative study of YOLOv9tiny, YOLOv10nano, YOLOv11nano and YOLOv12nano algorithms (Family of yolo algorithm, for reference check original YOLO Algorithm paper, available at: 
 https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html). 
